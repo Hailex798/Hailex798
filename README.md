@@ -1,3 +1,21 @@
+###
+
+<h1 align="center">Hey there 😄</h1>
+
+###
+###
+
+<p align="center">I'm Kshitij Singh Bisht 🙋‍♂️, a B.Tech student in Computer Science💻 with a passion for front-end development. Working towards becoming a versatile full stack developer 👩‍💻. Eager to embark on a freelancing journey🚶‍♀️ while striving to secure a software engineering role in a renowned company🏢. Let's code and innovate together!</p>
+
+###
+###
+
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
+
+###
+
 # 💫 About Me:
 - 🔭 I’m currently working on **Ssyclr: E-commerce Store**
 
