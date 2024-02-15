@@ -17,11 +17,11 @@
 ###
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Ssyclr: E-commerce Store](ssyclr.netlify.app)
+- 🔭 I’m currently working on [Ssyclr: E-commerce Store](https://ssyclr.netlify.app)
 
 - 🌱 I’m currently learning **Express.js**
 
-- 👯 I’m looking to collaborate on [My Portfolio](kshitijsinghbisht.netlify.app)
+- 👯 I’m looking to collaborate on [My Portfolio](https://kshitijsinghbisht.netlify.app)
 
 - 🤝 I’m looking for help with [Blockchain Voting Election System](https://github.com/arlbibek/dVoting/)
 
