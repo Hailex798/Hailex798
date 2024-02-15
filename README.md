@@ -11,21 +11,21 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ###
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Ssyclr: E-commerce Store**
+- 🔭 I’m currently working on [Ssyclr: E-commerce Store](ssyclr.netlify.app)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Express.js**
 
 - 👯 I’m looking to collaborate on [My Portfolio](kshitijsinghbisht.netlify.app)
 
 - 🤝 I’m looking for help with [Blockchain Voting Election System](https://github.com/arlbibek/dVoting/)
 
-- 👨‍💻 All of my projects are available at [My Website](https://kshitijsinghbisht.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://kshitijsinghbisht.netlify.app/)
 
 - 💬 Ask me about **Front-end Developement**
 
