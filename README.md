@@ -14,7 +14,7 @@
 ###
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Ssyclr: E-commerce Store](https://ssyclr.netlify.app)
+- 🔭 I’m currently working on <a href="https://ssyclr.netlify.app" target=”_blank”>Ssyclr: E-commerce Store</a>
 
 - 🌱 I’m currently learning **Express.js**
 
