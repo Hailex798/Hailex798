@@ -28,7 +28,7 @@
 
 - 📫 How to reach me: **kshitij.singh.bisht.174sis@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://bronze-bidget-36.tiiny.site/)
+- 📄 Know about my experiences: [Resume](https://kshitijsinghbisht.tiiny.site/)
 
 # 💻 Tech Stack:
 
