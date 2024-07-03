@@ -1,9 +1,11 @@
 ###
 
-<h1 align="center">Hey there 😄</h1>
+<h2 align="center">    
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F23CF9&background=FFFFFF00&center=true&vCenter=true&random=false&width=445&height=55&lines=Hello%2C+There!+%F0%9F%91%8B;I'm+Kshitij+Singh+Bisht%F0%9F%98%81;Nice+to+see+you..." alt="Typing SVG" />
+  </a>
+</h2>
 
-###
-###
 
 <p align="center">I'm Kshitij Singh Bisht 🙋‍♂️, a B.Tech student in Computer Science💻 with a passion for front-end development. Working towards becoming a versatile full stack developer 👩‍💻. Eager to embark on a freelancing journey🚶‍♀️ while striving to secure a software engineering role in a renowned company🏢. Let's code and innovate together!</p>
 
