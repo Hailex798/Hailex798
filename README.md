@@ -13,7 +13,8 @@
 
 ---
 
-# 💫 About Me:
+<h1><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="40" /> About Me:</h1>
+
 - 🔭 I’m currently working on -> <strong><a href="https://github.com/Hailex798/Imaginify_Text2Img_AI_Image_Generator" target=”_blank”>Imaginify</a> : Text-2-Image AI Image Generator</strong>
 
 - 🌱 I’m currently learning -> **MERN Stack (MongoDB, Express.js, React.js, Node.js)**
@@ -32,7 +33,7 @@
 
 ---
 
-# 💻 Tech Stack:
+<h1><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;Tech Stack:</h1>
 
 <a name="learning-now"></a>
 <div align="center">
@@ -71,7 +72,7 @@
 
 ---
 
-# 🤖 Projects:
+<h1><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="40">&nbsp; Projects: </h1>
 
 <markdown-accessiblity-table data-catalyst=""><table>
 <thead>
@@ -150,7 +151,7 @@
   <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 <a href="https://leetcode.com/hailex">
-  <img src="https://skillicons.dev/icons?i=leetcode" />
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 
 ---
