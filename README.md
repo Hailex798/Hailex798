@@ -138,7 +138,10 @@
 ---
 
 # 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=hailex798&limit=7&theme=dracula&combine_all_yearly_contributions=true)
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=hailex798&limit=7&theme=dracula&combine_all_yearly_contributions=true" alt="Top Languages"/>
+</p>
 
 ---
 
